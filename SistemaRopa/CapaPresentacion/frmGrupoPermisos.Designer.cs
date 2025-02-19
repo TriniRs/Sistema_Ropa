@@ -273,6 +273,7 @@
             // 
             // buttonSeleccionar
             // 
+            this.buttonSeleccionar.FillWeight = 5.855558F;
             this.buttonSeleccionar.HeaderText = "";
             this.buttonSeleccionar.Name = "buttonSeleccionar";
             this.buttonSeleccionar.ReadOnly = true;
@@ -294,10 +295,11 @@
             // 
             // nombre
             // 
+            this.nombre.FillWeight = 44.034F;
             this.nombre.HeaderText = "Nombre";
             this.nombre.Name = "nombre";
             this.nombre.ReadOnly = true;
-            this.nombre.Width = 200;
+            this.nombre.Width = 226;
             // 
             // estado
             // 
@@ -308,9 +310,11 @@
             // 
             // estadoValor
             // 
+            this.estadoValor.FillWeight = 250.1102F;
             this.estadoValor.HeaderText = "Estado";
             this.estadoValor.Name = "estadoValor";
             this.estadoValor.ReadOnly = true;
+            this.estadoValor.Width = 1281;
             // 
             // menu
             // 
